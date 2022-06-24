@@ -43,3 +43,20 @@ else{
     area3 = (altura3 * comprimento3) / 2;
 }
 console.log(area3)
+
+
+
+//tipagem dinâmica - não precisa especificar o tipo da variável
+//untyped
+
+let minhaVar = 567;
+    minhaVar = "texto";
+    minhaVar = true;
+
+//Multiparadigma - Resolver o mesmo problema de várias formas diferentes
+
+//ES6/ES2015 - Versão mais famosa do JavaScript
+
+//Linguagem interpretada - código executado 
+
+//NodeJS - É um interpretador para executar códigos em JavaScript fora do navegador
